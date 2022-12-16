@@ -12,7 +12,9 @@ and at the end will have:
   <li>The distance the car is from an object(using an ultrasonic distance sensor), will show __.__ if it doesnt get the distance</li>
  </ul>
 
-versions(each version has the features of the one before):
-v1:16/12/2022:can only move the car, not see or get the distance
-v2:__/__/____:can see the distance of the car from the object that is in front of it(can be wall,chair...)
-v3:__/__/____:can see the camera in the background of the mvoement screen
+<ul>
+  <h5>versions(each version has the features of the one before):</h5>
+  <li>v1:16/12/2022:can only move the car, not see or get the distance</li>
+  <li>v2:__/__/____:can see the distance of the car from the object that is in front of it(can be wall,chair...)</li>
+  <li>v3:__/__/____:can see the camera in the background of the mvoement screen</li>
+</ul>
