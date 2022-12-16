@@ -8,7 +8,7 @@ window = pygame.display.set_mode((screen_x,screen_y))
 pygame.display.set_caption("rpi4 joystick controller, client 2.0")
 font = pygame.font.SysFont('Corbel', 30)
 
-SERVER_IP = "192.168.1.224"  # the raspberry pi IP
+SERVER_IP = "127.0.0.1"  # the raspberry pi IP(put yours here)
 SERVER_PORT = 5680
 
 
