@@ -4,4 +4,4 @@ this car can move forward/backward and turn all by another program
 
 the raspberry pi is the server side of the projedct and your computer which controls the car is the client side
 
-<h1>test</h1>
+<b>this is an continued project<\b>
