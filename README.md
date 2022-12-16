@@ -4,6 +4,8 @@ this car can move forward/backward and turn all by another program
 
 the raspberry pi is the server side of the project and your computer which controls the car is the client side
 
+<p>the <a href="https://thepihut.com/products/adafruit-dc-stepper-motor-hat-for-raspberry-pi-mini-kit">Adafruit DC & Stepper Motor HAT</a></p>
+
 <b>this is an continued project</b>
 and at the end will have:
 <ul>
