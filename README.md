@@ -1,6 +1,7 @@
 # basic-raspberry-pi4-car-controlled-by-a-computer
 this is a basic raspberry pi 4 car using the Adafruit DC & Stepper Motor HAT
-this car can move forward/backward and turn all by another program
+
+this car can move forward/backward and turn all by another program using the tcp protocol
 
 the raspberry pi is the server side of the project and your computer which controls the car is the client side
 
