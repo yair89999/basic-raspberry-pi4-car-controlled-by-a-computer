@@ -7,7 +7,12 @@ the raspberry pi is the server side of the projedct and your computer which cont
 <b>this is an continued project</b>
 and at the end will have:
 <ul>
-  <h6>on the screen you control the pi from</h6>
-  <li></li>
+  <h5>on the screen you control the pi from</h5>
+  <li>A camera on the car that will send the image to your computer and show it as the background of the movement screen(using a usb camera and openCV)</li>
   <li>The distance the car is from an object(using an ultrasonic distance sensor), will show __.__ if it doesnt get the distance</li>
  </ul>
+
+versions(each version has the features of the one before):
+v1:16/12/2022:can only move the car, not see or get the distance
+v2:__/__/____:can see the distance of the car from the object that is in front of it(can be wall,chair...)
+v3:__/__/____:can see the camera in the background of the mvoement screen
