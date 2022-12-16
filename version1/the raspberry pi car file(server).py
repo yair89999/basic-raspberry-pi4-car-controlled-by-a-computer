@@ -16,7 +16,7 @@ messages_to_send = [] # (client IP+port, message(LOGIN_ok        |0012|aaaa#bbbb
 
 ERROR_MSG = "Error! "
 SERVER_PORT = 5680
-SERVER_IP = "192.168.1.224"
+SERVER_IP = "127.0.0.1"
 
 login_code = "1234"
 
