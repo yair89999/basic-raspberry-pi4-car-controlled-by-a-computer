@@ -18,6 +18,6 @@ and at the end will have:
 <ul>
   <h5>versions(each version has the features of the one before):</h5>
   <li>v1:16/12/2022:can only move the car, not see or get the distance</li>
-  <li>v2:__/__/____:can see the distance of the car from the object that is in front of it(can be wall,chair...)</li>
+  <li>v2:05/01/2023:can see the distance of the car from the object that is in front of it(can be wall,chair...)</li>
   <li>v3:__/__/____:can see the camera in the background of the mvoement screen</li>
 </ul>
